@@ -1,4 +1,5 @@
 👋 Hi, I’m Gintaras / Ginty
+
 🧑‍💻 About Me
 I'm a full-stack developer with a strong focus on Angular and backend integrations. With a background in art and design, I've transitioned into software engineering, where I apply creativity and problem-solving to build functional, user-focused applications.
 
