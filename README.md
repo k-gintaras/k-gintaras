@@ -1,21 +1,28 @@
 👋 Hi, I’m Gintaras / Ginty
 
 🧑‍💻 About Me
+
 I'm a full-stack developer with a strong focus on Angular and backend integrations. With a background in art and design, I've transitioned into software engineering, where I apply creativity and problem-solving to build functional, user-focused applications.
 
 👀 Interests
+
 I'm interested in mastering scalable architecture and exploring advanced frontend/backend technologies. Currently, I’m dedicated to taking my projects to the next level by refining code structure, adding new features, and enhancing usability.
 
 🌱 Current Goals
+
 I’m working on balancing "too many ideas" with focused execution—prioritizing quality, and getting things done. My main project right now is Taskorator, a complex task management system built with Angular and Firebase.
 
 💼 Looking to Collaborate On
+
 I’m open to collaboration in the near future! If you're working on projects involving Angular, Firebase, or backend integrations, let's connect.
 
 📫 How to Reach Me
+
 k-gintaras@mail.com
 
+
 Featured Projects
+
 
 Taskorator
 A real-time task management platform with hierarchical structures, built using Angular 17 and Firebase.
