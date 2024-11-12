@@ -1,45 +1,113 @@
-👋 Hi, I’m Gintaras / Ginty
+# Gintaras K. - Software Developer
 
-🧑‍💻 About Me
+Hello! 👋 I'm a full-stack developer with a strong focus on Angular and backend integrations. With a background in art and design, I've transitioned into software engineering, where I apply creativity and problem-solving to build functional, user-focused applications.
 
-I'm a full-stack developer with a strong focus on Angular and backend integrations. With a background in art and design, I've transitioned into software engineering, where I apply creativity and problem-solving to build functional, user-focused applications.
+## 🚀 Featured Projects
 
-👀 Interests
+### LSS (Least Similar Spheres)
 
-I'm interested in mastering scalable architecture and exploring advanced frontend/backend technologies. Currently, I’m dedicated to taking my projects to the next level by refining code structure, adding new features, and enhancing usability.
+**Machine Learning Research Project**
 
-🌱 Current Goals
+- 🔬 Novel approach to machine learning classification
+- 📘 [Research Paper](https://www.researchgate.net/publication/304777963_least_similar_spheres)
+- 📝 [Blog Post](https://leastsimilarspheres.blogspot.com/)
+- 💻 [GitHub Repository](https://github.com/k-gintaras/lss)
 
-I’m working on balancing "too many ideas" with focused execution—prioritizing quality, and getting things done. My main project right now is Taskorator, a complex task management system built with Angular and Firebase.
+![LSS Diagram](https://github.com/k-gintaras/lss/blob/master/ReadingMaterials/diagrams/capture_009_16042016_185357.jpg)
 
-💼 Looking to Collaborate On
+### UFeels
 
-I’m open to collaboration in the near future! If you're working on projects involving Angular, Firebase, or backend integrations, let's connect.
+**Emotion Tracking and Analysis App**
 
-📫 How to Reach Me
+- 📱 Track and analyze emotional patterns
+- 🎯 Focus on mental wellness and self-awareness
+- 💻 [Project Showcase](https://github.com/k-gintaras/UFeels-Showcase)
 
-k-gintaras@mail.com
+![UFeels Interface](https://github.com/k-gintaras/UFeels-Showcase/blob/main/Readme-Screenshots/image-16.png)
 
+### Whywhen
 
-Featured Projects
+**Collaborative Story Creation Game**
 
+- 🎮 Interactive storytelling platform
+- 🤝 Multiplayer creative writing experience
+- 💻 [Project Showcase](https://github.com/k-gintaras/WhyWhen-Showcase)
 
-Taskorator
-A real-time task management platform with hierarchical structures, built using Angular 17 and Firebase.
+![Whywhen Interface](https://github.com/k-gintaras/WhyWhen-Showcase/blob/main/images/image-2.png)
 
-Technologies: Angular, Firebase, RxJS
-Key Features: Real-time data updates, state management, caching for performance
+### Colorator
 
+**Advanced Color Palette Generator**
 
-WoW Discord Bot
-A Discord bot for raid management with integrated APIs (Warcraft Logs, GPT) and real-time data caching.
+- 🎨 Extract color palettes from images
+- 🖼️ Generate custom backgrounds
+- 💻 [GitHub Repository](https://github.com/k-gintaras/bgr-generator)
 
-Technologies: TypeScript, GraphQL, SQLite, Firebase
-Key Features: Performance analysis, real-time updates, team optimization
+![Colorator Demo](https://github.com/k-gintaras/bgr-generator/blob/main/readme-resources/colorator-image-to-palette.gif)
 
+### Musicorator
 
-Colorator
-A color management tool with custom algorithms for color extraction and background generation, created in Angular.
+**Music Tagging and Management Tool**
 
-Technologies: Angular, TypeScript
-Key Features: Custom color processing, efficient state management, math-based visualization
+- 🎵 Organize and tag music collections
+- 📊 Advanced music metadata management
+- 💻 [GitHub Repository](https://github.com/k-gintaras/musicorator)
+
+![Musicorator Demo](https://github.com/k-gintaras/musicorator/blob/main/showcase-images/musicorator-tagging.gif)
+
+### Discord Bot Wclogs
+
+**Raid Management and Analysis Tool**
+
+- 🤖 Discord integration for raid management
+- 📊 Performance analysis and tracking
+- 💻 [Project Showcase](https://github.com/k-gintaras/discord-bot-showcase)
+
+![Discord Bot Interface](https://github.com/k-gintaras/discord-bot-showcase/blob/main/image.png)
+
+### Taskorator
+
+**Task Management and Hierarchical Structuring Tool**
+
+- 📋 Advanced task organization
+- 🗂️ Hierarchical task management
+- 💻 [Project Showcase](https://github.com/k-gintaras/overlord-showcase)
+
+![Taskorator Demo](https://github.com/k-gintaras/overlord-showcase/blob/main/readme-resources/navigating.gif)
+
+## 🛠️ Technical Skills
+
+- **Languages**: TypeScript, JavaScript, Python
+- **Frameworks**: Angular, Node.js
+- **Design**: UI/UX, Logo Design
+- **Research**: Machine Learning, Algorithm Development
+
+## 🎨 Design Philosophy
+
+I believe in creating applications that are not only functional but also visually appealing. Each project includes custom-designed logos and interfaces that enhance user experience while maintaining practical usability.
+
+## 📫 Get in Touch
+
+- k-gintaras@mail.com
+- GitHub: You're already here! Feel free to explore my repositories
+- ResearchGate: [LSS Research Paper](https://www.researchgate.net/publication/304777963_least_similar_spheres)
+- Blog: [LSS Blog](https://leastsimilarspheres.blogspot.com/)
+
+---
+
+_Note: Some projects have private main repositories with public showcase versions available._
+
+## My Logos:
+
+![My Logo](readme-resources/idea-the-image-logo.jpg)
+![Ufeels Logo](readme-resources/ufeels-logo.jpg)
+![Whywhen Logo](readme-resources/whywhen-logo.jpg)
+
+## My Artwork:
+
+![DeviantArt]https://www.deviantart.com/ubaby/gallery
+![charcoal](readme-resources/charcoal.jpg)
+![pencil](readme-resources/pencil.jpg)
+![pencil-2](readme-resources/pencil-2.JPG)
+![watercolor](readme-resources/watercolor.jpg)
+![watercolor-2](readme-resources/watercolor-2.JPG)
